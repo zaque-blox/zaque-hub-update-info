@@ -12,7 +12,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zaque-blox/zaque_hub/
 
 * zaque hub | blue lock rivals
 
-  sendo feito
+   oque foi adicionado adicionado
+  
+  * sistema de times GK
+    
 ``` Lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/zaque-blox/zaque-hub-games/refs/heads/main/zaque%20hub%20%7C%20Blue%20Lock%3A%20rivals"))()
 ```
