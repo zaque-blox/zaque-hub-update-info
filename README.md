@@ -7,7 +7,7 @@ a zaque hub update info foi feita para mandar atualizações quando eu atualizar
   sem atualizações
   
 ``` Lua
-Em breve
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zaque-blox/zaque_hub/refs/heads/main/zaque%20hub"))()
 ```
 
 * zaque hub | blue lock rivals
