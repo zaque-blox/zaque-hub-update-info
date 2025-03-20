@@ -12,9 +12,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/zaque-blox/zaque_hub/
 
 * zaque hub | blue lock rivals
 
-  ainda sendo feito
+  esta sem nada vai dar erro ao executar
 ``` Lua
-Em breve
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zaque-blox/zaque-hub-games/refs/heads/main/zaque%20hub%20%7C%20Blue%20Lock%3A%20rivals"))()
 ```
 * zaque hub | blox fruits
   
