@@ -4,7 +4,11 @@ a zaque hub update info foi feita para mandar atualizações quando eu atualizar
 
 * zaque hub | universal
 
-  sem atualizações
+ 1 Adicionado Team check Aimbot
+ 2 Adicionado Team check Esp
+ 3 mudança de visual
+ 4 botão minimize
+  
   
 ``` Lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/zaque-blox/zaque_hub/refs/heads/main/zaque%20hub"))()
